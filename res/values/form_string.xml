@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nome">Nome: </string>
+    <string name="tel">Telefone: </string>
+	<string name="email">Email: </string>
+	<string name="salvar">Salvar</string>
+	<string name="retornar">Retornar Valores</string>
+    
+</resources>
